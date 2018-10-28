@@ -1,1 +1,1 @@
-# rsschool-codejam
+training project for RSSchool tasks
